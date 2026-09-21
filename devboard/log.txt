@@ -1,0 +1,2 @@
+07:02:01 PM: iCCP: known incorrect sRGB profile
+07:02:01 PM: iCCP: cHRM chunk does not match sRGB

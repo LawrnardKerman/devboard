@@ -1,0 +1,124 @@
+(footprint "edgeConnectorPad"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "pad"
+		(at -2 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "23ad0244-8f5d-40d4-8b67-aa5380cf0a1e")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "edgeConnectorPad"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "844a768d-2cb7-4941-a744-f401b168cf59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "909c5229-7fe1-435b-842b-a6d78293a921")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "30eeef88-ce34-46e9-9c15-60c506a0db52")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start 0 -1)
+		(end 1 1)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "aa6b0d7d-4250-424e-b960-c5e1d33a742b")
+	)
+	(fp_rect
+		(start 0 -1)
+		(end 1 1)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "9faeaa15-0713-4cc9-85c9-0060de3f08cf")
+	)
+	(fp_rect
+		(start 0 -1)
+		(end 1 1)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.Cu")
+		(uuid "e8d8a7ba-6ae5-4b46-ae73-e5a32ea9b116")
+	)
+	(fp_rect
+		(start 0 -1)
+		(end 1 1)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "e062e289-5902-4eb2-9f00-b77a6f999315")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "792518f6-d373-4b8d-b482-9afff53c0474")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "04a6e3ec-599f-4d0b-99e3-2c79f0d4f2e2")
+	)
+	(embedded_fonts no)
+)
