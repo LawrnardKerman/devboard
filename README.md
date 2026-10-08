@@ -7,8 +7,7 @@ it *should* work as a raspberry pi pico because most of the components are the s
 there's a 3.3v in and gnd connector next to the battery connector
 basicly, this is just a fun, simple microcontroller
 <img width="3307" height="2339" alt="devboard-1" src="https://github.com/user-attachments/assets/4934d037-44ef-4199-81d1-7fa1ab06892c" />
-
-<img width="1117" height="777" alt="image" src="https://github.com/user-attachments/assets/97c4cd54-59e2-4ba2-a3c7-eceb1434bafb" />
 I've been really addicted to pcb design so this project is just a practice for pcb design
 hope you like it :3 
 
+ps: like 4 weeks later i dont care about pcb design anymore
