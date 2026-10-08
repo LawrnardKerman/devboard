@@ -31,4 +31,6 @@ L1,1005,1,2u2,C84472,$0.0174,$0.02,,extended
 total component cost,,,,,,$26.48,,
 pcb cost,,,,,,$5.10,5 pcbs,
 pcba cost,,,,,,$80.36,includes components(2 boards),
-grant total,,,,,,$85.46,not counting taxes & shipping,
+subtotal,,,,,,$85.46,not counting taxes & shipping,
+shipping,,,,,,$3.12,global standard direct,
+total,,,,,,$88.58,not including taxes,
